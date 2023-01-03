@@ -290,7 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
-# Math equation
-     markdown: kramdown
- futrue: true
+      futrue: true
      
