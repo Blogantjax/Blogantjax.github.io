@@ -292,4 +292,5 @@ defaults:
       related: true
 # Math equation
      markdown: kramdown
+ futrue: true
      
